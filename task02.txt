@@ -1,0 +1,1 @@
+Open the url https://johannesdach.com/gcc/ in your browser. Create a custom plugin "gccplugin" that displays "GCC best meat delivery" on all Woocommerce pages before the main content. 
