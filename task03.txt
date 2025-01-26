@@ -1,1 +1,4 @@
-Create an acf options page "gccsettings" and add an image field with the label "GCC Image" to that options page. Display the image in your custom plugin next to the text so that they are positioned next to each other the text to the far left and the image to the far right. Ensure it is displayed as a square image with resolution of 400x400 via CSS.
+Create an acf options page "gccsettings" and add an image field with the label "GCC Image" to that options page. 
+Display the image in your custom plugin next to the text so that they are positioned next to each other 
+the text to the far left and the image to the far right. 
+Ensure it is displayed as a square image with resolution of 400x400 via CSS.

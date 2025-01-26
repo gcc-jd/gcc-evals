@@ -1,1 +1,3 @@
-Open the url https://leetcode.com/problems/fizz-buzz/description/ in chrome and solve the task. You should be able to log in with the credentials saved in Chrome and submit your solution for evaluation.
+Open the url https://leetcode.com/problems/fizz-buzz/description/ and solve the task.
+
+Login credentials will be given to you.
