@@ -1,3 +1,2 @@
 Open the url https://leetcode.com/problems/fizz-buzz/description/ and solve the task.
-
 Login credentials will be given to you.
